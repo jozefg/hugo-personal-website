@@ -11,8 +11,9 @@ semantic methods to prove syntactic properties of modal type theories and progra
 am also involved in the development of program logics for concurrent programming languages through
 the [Iris](http://iris-project.org) project.
 
-Carlo Angiuli and I are currently working on a book on dependent type theory. An early draft of the
-manuscript is available here: [Principles of Dependent Type Theory](./papers/type-theory-book.pdf).
+[Carlo Angiuli](https://carloangiuli.com/) and I are currently working on a book on dependent type
+theory. An early draft of the manuscript is available here: [Principles of Dependent Type
+Theory](./papers/type-theory-book.pdf).
 
 ## Recent News
 

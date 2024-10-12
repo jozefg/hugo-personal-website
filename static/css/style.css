@@ -66,7 +66,7 @@ dd {
 }
 
 dl.ref > dt:before {
-  content: "[" counter(pub-counter-1) "] ";
+  content: "[" counter(pub-counter-1, decimal-leading-zero) "] ";
   counter-increment: pub-counter-1;
   position: relative;
   left: -10px;

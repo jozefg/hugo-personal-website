@@ -1,0 +1,137 @@
+[
+    {
+        "title" : "Idempotent resources in separation logic: the heart of core in Iris",
+        "authors" : "D. Gratzer, M. Møller, L. Birkedal",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/papers/idempotent-resources-in-separation-logic.pdf"
+        }
+    },
+
+    {
+        "title" : "Directed univalence in simplicial homotopy type theory",
+        "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/papers/directed-univalence-in-simplicial-homotopy-type-theory.pdf"
+        }
+    },
+
+    {
+        "title" : "Weak-head conversion testing for MTT",
+        "authors" : "D. Gratzer",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/preprints/papers/whct-for-mtt.pdf"
+        }
+    },
+
+    {
+        "title" : "Adjoint modalities in MTT",
+        "authors" : "D. Gratzer",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/papers/adjoint-modalities-in-mtt.pdf"
+        }
+    },
+
+    {
+        "title" : "Controlling unfolding in type theory",
+        "authors" : "D. Gratzer, J. Sterling, C. Angiuli, T. Coquand, L. Birkedal",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/controlling-unfolding-in-type-theory.pdf"
+        }
+    },
+
+    {
+        "title" : "Denotational semantics of general store and polymorphism",
+        "authors" : "J. Sterling, D. Gratzer, L. Birkedal",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/denotational-semantics-of-general-store-and-polymorphism.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2210.02169"
+        }
+    },
+
+    {
+        "title" : "Strict universes for Grothendieck topoi",
+        "authors" : "D. Gratzer, M. Shulman, J. Sterling",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/strict-universes-for-grothendieck-topoi.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2202.07329"
+        }
+    },
+
+    {
+        "title" : "The directed plump ordering",
+        "authors" : "D. Gratzer, M. Shulman, J. Sterling",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/the-directed-plump-ordering.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2202.07329"
+        }
+    },
+
+    {
+        "title" : "An inductive-recursive universe generic for small families",
+        "authors" : "D. Gratzer",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/an-inductive-recursive-universe-generic-for-small-families.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2202.05529"
+        }
+    },
+
+    {
+        "title" : "Crisp induction for intensional identity types",
+        "authors" : "D. Gratzer",
+        "year" : "2021",
+        "links" :
+        {
+            "PDF" : "/papers/crisp-induction-for-intensional-identity-types.pdf"
+        }
+    },
+
+    {
+        "title" : "Syntactic categories for dependent type theory: sketching and adequacy",
+        "authors" : "D. Gratzer, J. Sterling",
+        "year" : "2020",
+        "links" :
+        {
+            "PDF" : "/papers/syntactic-categories-for-dependent-type-theory.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2012.10783"
+        }
+    },
+
+    {
+        "title" : "An Addendum to Section 7 of First Steps in Synthetic Guarded Domain Theory",
+        "authors" : "D. Gratzer",
+        "year" : "2018",
+        "links" :
+        {
+            "PDF" : "/papers/an-addendum-to-first-steps.pdf"
+        }
+    },
+
+    {
+        "title" : "Formalizing Concurrent Stacks With Helping: A Case Study In Iris",
+        "authors" : "D. Gratzer, M. Høier, A. Bizjak, and L. Birkedal",
+        "year" : "2017",
+        "links" :
+        {
+            "PDF" : "https://iris-project.org/pdfs/2017-case-study-concurrent-stacks-with-helping.pdf",
+            "Coq" : "https://gitlab.mpi-sws.org/iris/examples/tree/master/theories/concurrent_stacks"
+        }
+    }
+]

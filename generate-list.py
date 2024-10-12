@@ -24,7 +24,7 @@ def format_entry(entry):
         with tag('div', klass="entry"):
             text(entry['authors'])
 
-            if entry['venue']:
+            if 'venue' in entry:
                 doc.stag('br')
                 with tag('em'):
                     text(entry['venue'])

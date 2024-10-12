@@ -33,10 +33,10 @@ def format_entry(entry):
                 doc.stag('br')
                 text(entry['year'])
 
-            with tag('ul', klass='menu'):
+            with tag('ul', klass='publinks'):
                 for descr, link in entry['links'].items():
                     with tag('li'):
-                        with tag('a', href='link'):
+                        with tag('a', href=link):
                             text(descr)
 
 with open(sys.argv[1]) as f:

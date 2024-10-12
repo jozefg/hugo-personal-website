@@ -57,8 +57,12 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 dl.ref {
   counter-reset: pub-counter-1 pub-counter-2;
-  padding-left: 50px;
+  padding-left: 10px;
   padding-top: 15px;
+}
+
+dd {
+  margin-left: 5px;
 }
 
 dl.ref > dt:before {

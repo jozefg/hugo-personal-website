@@ -1,0 +1,92 @@
+[
+    {
+        "title" : "Controlling unfolding in type theory",
+        "authors" : "D. Gratzer, J. Sterling. C. Angiuli, T. Coquand, L. Birkedal",
+        "year" : "2023",
+        "venue" : "WG 6 Meeting",
+        "links" :
+        {
+            "Slides" : "/papers/2023-wg6-slides.pdf"
+        }
+    },
+
+    {
+        "title" : "Modalities and (weak) dependent right adjoints",
+        "authors" : "D. Gratzer",
+        "year" : "2023",
+        "venue" : "HoTTEST",
+        "links" :
+        {
+            "Slides" : "/papers/2023-hottest-slides.pdf",
+            "Recording" : "https://www.youtube.com/watch?v=pjk1odP-jgs"
+        }
+    },
+
+    {
+        "title" : "Denotational semantics of type theory",
+        "authors" : "D. Gratzer",
+        "year" : "2023",
+        "venue" : "LogSem Seminar",
+        "links" :
+        {
+            "PDF" : "/2023-semantics-primer-lecture-notes.pdf"
+        }
+    },
+
+    {
+        "title" : "Normalization for multimodal type theory",
+        "authors" : "D. Gratzer",
+        "year" : "2021",
+        "venue" : "TYPES",
+        "links" :
+        {
+            "Slides" : "/papers/2021-normalization-for-multimodal-type-theory-slides.pdf",
+            "Recording" : "https://www.youtube.com/watch?v=sCdRW-wOeiY"
+        }
+    },
+
+    {
+        "title" : "Modalities and Parametric Adjoints",
+        "authors" : "D. Gratzer, E. Cavallo, G.A. Kavvos, A. Guatto, L. Birkedal",
+        "year" : "2021",
+        "venue" : "TYPES",
+        "links" :
+        {
+            "Slides" : "/papers/2021-modalities-and-parametric-adjoints-slides.pdf",
+            "Recording" : "https://www.youtube.com/watch?v=MydYgZU2NgU"
+        }
+    },
+
+    {
+        "title" : "Multimodal Dependent Type Theory",
+        "authors" : "D. Gratzer, G.A. Kavvos, A. Nuyts, L. Birkedal",
+        "year" : "2020",
+        "venue" : "Stockholm University Logic Seminar",
+        "links" :
+        {
+            "Slides" : "/papers/2020-stockholm-slides.pdf"
+        }
+    },
+
+    {
+        "title" : "Multimodal Dependent Type Theory",
+        "authors" : "D. Gratzer, G.A. Kavvos, A. Nuyts, L. Birkedal",
+        "year" : "2020",
+        "venue" : "IT University of Copenhagen PLZ Seminar",
+        "links" :
+        {
+            "Slides" : "/papers/2019-icfp-modal-slides.pdf"
+        }
+    },
+
+    {
+        "title" : "Implementing a Modal Dependent Type Theory",
+        "authors" : "D. Gratzer, J. Sterling, L. Birkedal",
+        "year" : "2019",
+        "venue" : "International Conference on Functional Programming",
+        "links" :
+        {
+            "Slides" : "/papers/2019-icfp-modal-slides.pdf"
+        }
+    }
+]

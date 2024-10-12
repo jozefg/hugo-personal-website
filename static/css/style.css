@@ -13,13 +13,18 @@ body {
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; margin-right: 10px}
-.article-meta, .menu a {
+.menu a {
   text-decoration: none;
   background: #eee;
-  padding: 2px;
-  border-radius: 5px;
+  padding: 1px;
+  border-radius: 2px;
 }
-.menu, .article-meta, footer { text-align: center; }
+
+.article-meta {
+  background: #eee;
+}
+
+.menu, footer, .article-meta { text-align: center; }
 
 .nav-bar-parent {
     display: flex;

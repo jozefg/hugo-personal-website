@@ -4,7 +4,7 @@ title: Daniel Gratzer
 
 I am a postdoctoral researcher in the [Department of Computer Science](http://cs.au.dk/) at Aarhus
 University under [Lars Birkedal](http://cs.au.dk/~birke). I am presently at Oxford
-University as a visiting researcher. Here's a [photo of me](/photo.jpg).
+University as a visiting researcher. Have a look at my [cv](/cv.pdf) or this [photo](/photo.jpg).
 
 I study programming languages, type theories, and logics. I am particularly interested in applying
 semantic methods to prove syntactic properties of modal type theories and programming languages. I

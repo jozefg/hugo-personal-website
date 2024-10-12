@@ -29,11 +29,6 @@ name = "Talks"
 url = "talks/"
 weight = 5
 
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 6
-
 [params]
 description = "My website, built through Hugo and based on x-min."
 
@@ -51,4 +46,4 @@ block = [ [ "\\[", "\\]" ], [ "$$", "$$" ] ]
 inline = [ [ "\\(", "\\)" ] ]
 
 [security]
-  enableInlineShortcodes = true
+enableInlineShortcodes = true

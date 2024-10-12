@@ -12,10 +12,20 @@
 
   <body>
     <nav>
-      <ul class="menu">
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
+      <div class="nav-bar-parent">
+        <div class="nav-bar-child">
+          <p><b>Daniel Gratzer</b></p>
+        </div>
+        <div class="nav-bar-child">
+          <ul class="menu">
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="nav-bar-child">
+          <p id="email"><strong>gratzer@cs.au.dk</strong></p>
+        </div>
+      </div>
     <hr/>
     </nav>

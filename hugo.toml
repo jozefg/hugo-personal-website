@@ -1,0 +1,54 @@
+baseURL = 'https://danielgratzer.com/'
+languageCode = 'en-us'
+title = 'Daniel Gratzer'
+ignoreFiles = [ "\\.Rmd$", "\\.Rmarkdown$", "_cache$" ]
+footnotereturnlinkcontents = "↩"
+
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "Publications"
+url = "publications/"
+weight = 2
+
+[[menu.main]]
+name = "Preprints"
+url = "preprints/"
+weight = 3
+
+[[menu.main]]
+name = "Teaching"
+url = "teaching/"
+weight = 4
+
+[[menu.main]]
+name = "Talks"
+url = "talks/"
+weight = 5
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+[params]
+description = "My website, built through Hugo and based on x-min."
+
+[markup.highlight]
+codeFences = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [ [ "\\[", "\\]" ], [ "$$", "$$" ] ]
+inline = [ [ "\\(", "\\)" ] ]
+
+[security]
+  enableInlineShortcodes = true

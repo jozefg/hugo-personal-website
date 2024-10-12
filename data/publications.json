@@ -1,0 +1,200 @@
+[
+    {
+        "title" : "A modal deconstruction of Löb induction",
+        "authors" : "D. Gratzer",
+        "venue" : "Conditionally accepted to Principles of Programming Languages",
+        "year" : "2025",
+        "links" :
+        {
+            "PDF" : "/papers/a-modal-deconstruction-of-loeb-induction.pdf",
+        }
+    },
+
+    {
+        "title" : "The Category of Iterative Sets in Homotopy Type Theory and Univalent Foundations",
+        "authors" : "D. Gratzer, H. Gylterud, A. Mörtberg, E. Stenholm",
+        "venue" : "To appear in Mathematical Structures in Computer Science",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/papers/the-category-of-iterative-sets-in-homotopy-type-theory-and-univalent-foundations.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2402.04893"
+        }
+    },
+
+    {
+        "title" : "Free theorems from univalent reference types",
+        "authors" : "J. Sterling, D. Gratzer, L. Birkedal",
+        "venue" : "Computer Science Logic",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/papers/free-theorems-from-univalent-reference-types.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2307.16608"
+        }
+    },
+
+    {
+        "title" : "Syntax and semantics of modal type theory",
+        "authors" : "D. Gratzer",
+        "venue" : "PhD Thesis",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/papers/phd-thesis.pdf",
+        }
+    },
+
+    {
+        "title" : "Under Lock and Key: A Proof System for a Multimodal Logic",
+        "authors" : "G. A. Kavvos, D. Gratzer",
+        "venue" : "The Bulletin of Symbolic Logic",
+        "year" : "2023",
+        "links" :
+        {
+            "PDF" : "/papers/under-lock-and-key-a-proof-system-for-multimodal-logic.pdf",
+            "Arxiv": "https://arxiv.org/abs/2211.06217"
+        }
+    },
+
+    {
+        "title" : "mitten: flexible multimodal proof assistant",
+        "authors" : "P. Stassen, D. Gratzer, L. Birkedal",
+        "venue" : "TYPES 2022 Post-proceedings",
+        "year" : "2023",
+        "links" :
+        {
+            "PDF" : "/papers/mitten-a-flexible-multimodal-proof-assistant.pdf",
+        }
+    },
+
+    {
+        "title" : "A stratified approach to Löb induction",
+        "authors" : "D. Gratzer, L. Birkedal",
+        "venue" : "Formal Structures for Computation and Deduction",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/a-stratified-approach-to-lob-induction.pdf",
+            "Errata" : "/papers/a-stratified-approach-to-lob-induction-errata.pdf",
+            "Slides" : "/papers/2022-a-stratified-approach-to-lob-slides.pdf"
+        }
+    },
+
+    {
+        "title" : "Normalization for multimodal type theory",
+        "authors" : "D. Gratzer",
+        "venue" : "Logic in Computer Science",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/2022-normalization-for-multimodal-type-theory-short.pdf",
+            "Abstract" : "/papers/normalization-for-multimodal-type-theory-abstract.pdf",
+            "Tech Report" : "/papers/normalization-for-multimodal-type-theory.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2106.01414",
+            "Slides" : "/papers/2022-normalization-for-multimodal-type-theory-lics-slides.pdf"
+        }
+    },
+
+    {
+        "title" : "A Cubical Language for Bishop Sets",
+        "authors" : "J. Sterling, C. Angiuli, and D. Gratzer",
+        "venue" : "Logic Methods in Computer Science",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/a-cubical-language-for-bishop-sets.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2003.01491",
+        }
+    },
+
+    {
+        "title" : "Modalities and Parametric Adjoints",
+        "authors" : "D. Gratzer, E. Cavallo, G.A. Kavvos, A. Guatto, L. Birkedal",
+        "venue" : "Transactions on Computational Logic",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/modalities-and-parametric-adjoints.pdf",
+            "Abstract" : "/papers/modalities-and-parametric-adjoints-abstract.pdf"
+        }
+    },
+
+    {
+        "title" : "Multimodal Dependent Type Theory",
+        "authors" : "D. Gratzer, G.A. Kavvos, A. Nuyts, L. Birkedal",
+        "venue" : "Logical Methods in Computer Science",
+        "year" : "2022",
+        "links" :
+        {
+            "PDF" : "/papers/journal-multimodal-dependent-type-theory.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2011.15021"
+        }
+    },
+
+    {
+        "title" : "Transfinite Iris: Resolving an Existential Dilemma of Step-Indexed Separation Logic",
+        "authors" : "S. Spies, L. Gäher, D. Gratzer, J. Tassarotti, R. Krebbers, D. Dreyer, L. Birkedal",
+        "venue" : "Programming Language Design and Implementation",
+        "year" : "2021",
+        "links" :
+        {
+            "PDF" : "/papers/transfinite-iris.pdf",
+            "Appendix" : "/papers/transfinite-iris-submission-appendix.pdf",
+            "Coq" : "https://gitlab.mpi-sws.org/iris/transfinite"
+        }
+    },
+
+    {
+        "title" : "Multimodal Dependent Type Theory",
+        "authors" : "D. Gratzer, G. A. Kavvos, A. Nuyts, and L. Birkedal",
+        "venue" : "Logic in Computer Science",
+        "year" : "2020",
+        "links" :
+        {
+            "PDF" : "/papers/multimodal-dependent-type-theory.pdf",
+            "Tech Report" : "/papers/type-theory-a-la-mode.pdf",
+        }
+    },
+
+    {
+        "title" : "Implementing a Modal Dependent Type Theory",
+        "authors" : "D. Gratzer, J. Sterling, and L. Birkedal",
+        "venue" : "International Conference on Functional Programming",
+        "year" : "2019",
+        "links" :
+        {
+            "PDF" : "/papers/2019-implementing-modal-dependent-type-theory.pdf",
+            "Tech Report" : "/papers/2019-implementing-modal-dependent-type-theory-tech-report.pdf",
+            "Implementation" : "https://github.com/jozefg/blott",
+            "Slides" : "/papers/2019-icfp-modal-slides.pdf"
+        },
+        "award" : "Distinguished Paper"
+    },
+
+    {
+        "title" : "Cubical Syntax for Reflection-Free Extensional Equality",
+        "authors" : "J. Sterling, C. Angiuli, and D. Gratzer",
+        "venue" : "Formal Structures for Computation and Deduction",
+        "year" : "2019",
+        "links" :
+        {
+            "PDF" : "/papers/2019-xtt.pdf",
+            "Arxiv" : "https://arxiv.org/abs/1904.08562"
+        },
+        "award" : "Best Paper Award for Junior Researchers"
+    },
+
+    {
+        "title" : "Iron: Managing Obligations in Higher-Order Concurrent Separation Logic",
+        "authors" : "A. Bizjak, D. Gratzer, R. Krebbers, and L. Birkedal",
+        "venue" : "Principles of Programming Languages",
+        "year" : "2019",
+        "links" :
+        {
+            "PDF" : "https://iris-project.org/pdfs/2019-popl-iron-final.pdf",
+            "Website" : "https://iris-project.org/iron/",
+            "Coq" : "https://gitlab.mpi-sws.org/iris/iron"
+        }
+    },
+]

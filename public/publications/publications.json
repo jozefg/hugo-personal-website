@@ -1,0 +1,10 @@
+{
+    title: "Foo",
+    authors: "Bar",
+    year: "Baz",
+    venue: "Quux"
+    links:
+    [
+        "A" : "B"
+    ]
+}

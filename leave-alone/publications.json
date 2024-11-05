@@ -1,5 +1,17 @@
 [
     {
+        "title" : "Unifying cubical and multimodal type theory",
+        "authors" : "F. Aagaard, M. Kristensen, D. Gratzer, L. Birkedal",
+        "venue" : "Logical Methods in Computer Science",
+        "year" : "2024",
+        "links" :
+        {
+            "PDF" : "/papers/unifying-cubical-and-multimodal-type-theory.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2203.13000"
+        }
+    },
+
+    {
         "title" : "A modal deconstruction of Löb induction",
         "authors" : "D. Gratzer",
         "venue" : "Conditionally accepted to Principles of Programming Languages",
@@ -38,7 +50,7 @@
         "title" : "Syntax and semantics of modal type theory",
         "authors" : "D. Gratzer",
         "venue" : "PhD Thesis",
-        "year" : "2024",
+        "year" : "2023",
         "links" :
         {
             "PDF" : "/papers/phd-thesis.pdf"

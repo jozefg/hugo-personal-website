@@ -21,7 +21,7 @@ weight = 3
 
 [[menu.main]]
 name = "Teaching"
-url = "teaching/"
+url = "courses/"
 weight = 4
 
 [[menu.main]]

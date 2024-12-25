@@ -1,5 +1,28 @@
 [
     {
+        "title" : "Idempotent resources in separation logic: the heart of core in Iris",
+        "authors" : "D. Gratzer, M. Møller, L. Birkedal",
+        "year" : "2025",
+        "venue" : "Foundations of Software Science and Computation Structures",
+        "links" :
+        {
+            "PDF" : "/papers/idempotent-resources-in-separation-logic.pdf"
+        }
+    },
+
+    {
+        "title" : "A modal deconstruction of Löb induction",
+        "authors" : "D. Gratzer",
+        "venue" : "Principles of Programming Languages",
+        "year" : "2025",
+        "links" :
+        {
+            "PDF" : "/papers/a-modal-deconstruction-of-loeb-induction.pdf"
+        }
+    },
+
+
+    {
         "title" : "Unifying cubical and multimodal type theory",
         "authors" : "F. Aagaard, M. Kristensen, D. Gratzer, L. Birkedal",
         "venue" : "Logical Methods in Computer Science",
@@ -8,17 +31,6 @@
         {
             "PDF" : "/papers/unifying-cubical-and-multimodal-type-theory.pdf",
             "Arxiv" : "https://arxiv.org/abs/2203.13000"
-        }
-    },
-
-    {
-        "title" : "A modal deconstruction of Löb induction",
-        "authors" : "D. Gratzer",
-        "venue" : "Conditionally accepted to Principles of Programming Languages",
-        "year" : "2025",
-        "links" :
-        {
-            "PDF" : "/papers/a-modal-deconstruction-of-loeb-induction.pdf"
         }
     },
 

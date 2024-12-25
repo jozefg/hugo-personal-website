@@ -1,15 +1,5 @@
 [
     {
-        "title" : "Idempotent resources in separation logic: the heart of core in Iris",
-        "authors" : "D. Gratzer, M. Møller, L. Birkedal",
-        "year" : "2024",
-        "links" :
-        {
-            "PDF" : "/papers/idempotent-resources-in-separation-logic.pdf"
-        }
-    },
-
-    {
         "title" : "Directed univalence in simplicial homotopy type theory",
         "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
         "year" : "2024",

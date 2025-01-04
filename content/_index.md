@@ -30,6 +30,8 @@ Theory](./papers/type-theory-book.pdf). Please feel free to contact me if you fi
 
 ## Recent News
 
+ - [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf)
+ has been accepted to FoSSaCS 2025.
  - [Unifying cubical and multimodal type theory](/papers/unifying-cubical-and-multimodal-type-theory.pdf)
  has been accepted to LMCS
  - New preprint:
@@ -37,5 +39,3 @@ Theory](./papers/type-theory-book.pdf). Please feel free to contact me if you fi
  - [A modal deconstruction of Löb induction](/papers/a-modal-deconstruction-of-loeb-induction.pdf)
    has been conditionally accepted.
  - I'm visiting the University of Oxford from August 2024 to February 2025.
- - New preprint:
- [Directed univalence in simplicial homotopy type theory](/papers/directed-univalence-in-simplicial-homotopy-type-theory.pdf)

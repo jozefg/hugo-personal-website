@@ -19,7 +19,7 @@ research topics:
    [Iris](http://iris-project.org)
 
 If you are interested in collaborating on these questions or if you are a student interested in
-pursuing an internship or Ph.D. with me, I encourage you to send me an email.
+an internship or Ph.D. with me, I encourage you to send me an email.
 
 ## Forthcoming book
 

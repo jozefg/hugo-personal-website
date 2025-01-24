@@ -6,8 +6,7 @@
         "venue" : "Foundations of Software Science and Computation Structures",
         "links" :
         {
-            "PDF" : "/papers/idempotent-resources-in-separation-logic.pdf",
-            "Slides" : "/papers/2025-popl-slides.pdf"
+            "PDF" : "/papers/idempotent-resources-in-separation-logic.pdf"
         }
     },
 
@@ -18,7 +17,8 @@
         "year" : "2025",
         "links" :
         {
-            "PDF" : "/papers/a-modal-deconstruction-of-loeb-induction.pdf"
+            "PDF" : "/papers/a-modal-deconstruction-of-loeb-induction.pdf",
+            "Slides" : "/papers/2025-popl-slides.pdf"
         }
     },
 

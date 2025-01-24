@@ -6,7 +6,8 @@
         "venue" : "Foundations of Software Science and Computation Structures",
         "links" :
         {
-            "PDF" : "/papers/idempotent-resources-in-separation-logic.pdf"
+            "PDF" : "/papers/idempotent-resources-in-separation-logic.pdf",
+            "Slides" : "/papers/2025-popl-slides.pdf"
         }
     },
 

@@ -1,5 +1,16 @@
 [
     {
+        "title" : "A modal deconstruction of Löb induction",
+        "authors" : "D. Gratzer",
+        "year" : "2025",
+        "venue" : "POPL",
+        "links" :
+        {
+            "Slides" : "/papers/2025-popl-slides.pdf"
+        }
+    },
+
+    {
         "title" : "Controlling unfolding in type theory",
         "authors" : "D. Gratzer, J. Sterling. C. Angiuli, T. Coquand, L. Birkedal",
         "year" : "2023",

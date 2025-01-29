@@ -1,5 +1,16 @@
 [
     {
+        "title" : "The Yoneda embedding in simplicial type theory",
+        "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
+        "year" : "2025",
+        "links" :
+        {
+            "PDF" : "/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2501.13229"
+        }
+    },
+
+    {
         "title" : "Directed univalence in simplicial homotopy type theory",
         "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
         "year" : "2024",

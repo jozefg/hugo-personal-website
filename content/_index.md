@@ -2,10 +2,9 @@
 title: Daniel Gratzer
 ---
 
-I am a postdoctoral researcher in the [Department of Computer Science](http://cs.au.dk/) at Aarhus
-University under [Lars Birkedal](http://cs.au.dk/~birke). I am presently at Oxford
-University as a visiting researcher and will start as an assistant professor at Aarhus University in
-the spring of 2025. Have a look at my [cv](/cv.pdf) or this [photo](/photo.jpg).
+I am an assistant professor in the [Department of Computer Science](http://cs.au.dk/) at Aarhus
+University in the Logic and Semantics group. Have a look at my [cv](/cv.pdf) or this
+[photo](/photo.jpg).
 
 I study programming languages and type theories through the lens of category theory. While I am
 broadly interested in these subjects, my research is focused on dependent type theory and more
@@ -30,12 +29,13 @@ Theory](./papers/type-theory-book.pdf). Please feel free to contact me if you fi
 
 ## Recent News
 
+ - New preprint: [the Yoneda embedding in simplicial type theory](/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf).
  - [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf)
  has been accepted to FoSSaCS 2025.
  - [Unifying cubical and multimodal type theory](/papers/unifying-cubical-and-multimodal-type-theory.pdf)
- has been accepted to LMCS
+ has been accepted to LMCS.
  - New preprint:
- [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf)
+ [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf).
  - [A modal deconstruction of Löb induction](/papers/a-modal-deconstruction-of-loeb-induction.pdf)
    has been conditionally accepted.
  - I'm visiting the University of Oxford from August 2024 to February 2025.

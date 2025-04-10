@@ -1,5 +1,17 @@
 [
     {
+        "title" : "The Yoneda embedding in simplicial type theory",
+        "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
+        "year" : "2025",
+        "venue" : "Logic in Computer Science",
+        "links" :
+        {
+            "PDF" : "/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2501.13229"
+        }
+    },
+
+    {
         "title" : "Idempotent resources in separation logic: the heart of core in Iris",
         "authors" : "D. Gratzer, M. Møller, L. Birkedal",
         "year" : "2025",

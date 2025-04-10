@@ -29,7 +29,8 @@ Theory](./papers/type-theory-book.pdf). Please feel free to contact me if you fi
 
 ## Recent News
 
- - New preprint: [the Yoneda embedding in simplicial type theory](/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf).
+ - [the Yoneda embedding in simplicial type theory](/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf)
+ has been accepted to LICS 2025
  - [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf)
  has been accepted to FoSSaCS 2025.
  - [Unifying cubical and multimodal type theory](/papers/unifying-cubical-and-multimodal-type-theory.pdf)

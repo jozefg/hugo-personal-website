@@ -1,5 +1,16 @@
 [
     {
+        "title" : "Computing with Higher-Order Functions",
+        "authors" : "D. Gratzer",
+        "year" : "2025",
+        "venue" : "Turings Venner",
+        "links" :
+        {
+            "Slides" : "/papers/turing-venner-2025.pdf"
+        }
+    },
+
+    {
         "title" : "A modal deconstruction of Löb induction",
         "authors" : "D. Gratzer",
         "year" : "2025",

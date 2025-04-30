@@ -24,8 +24,9 @@ an internship or Ph.D. with me, I encourage you to send me an email.
 
 [Carlo Angiuli](https://carloangiuli.com/) and I are writing a book on dependent type theory. An
 early draft is available here: [Principles of Dependent Type
-Theory](./papers/type-theory-book.pdf). Please feel free to contact me if you find any errors
-(typographical or otherwise).
+Theory](./papers/type-theory-book.pdf) (_Last updated 2025-04-30_).
+
+Please feel free to contact me if you find any errors (typographical or otherwise).
 
 ## Recent News
 

@@ -1,5 +1,10 @@
 [
     {
+        "title" : "Publications",
+        "file" : "publications"
+    },
+
+    {
         "title" : "The Yoneda embedding in simplicial type theory",
         "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
         "year" : "2025",

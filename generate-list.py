@@ -6,6 +6,13 @@ import sys
 
 doc, tag, text = yattag.Doc().tagtext()
 
+HEADER =\
+'''
+---
+title: {}
+---
+'''
+
 def format_entry(entry):
     '''
     Format an entry using dt as
@@ -41,7 +48,14 @@ def format_entry(entry):
 
 with open(sys.argv[1]) as f:
     entries = json.load(f)
+
+    target_file = entries[0]['file']
+    title = entries[0]['title']
+
     with tag('dl', klass="ref"):
-        for entry in entries:
+        for entry in entries[1:]:
             format_entry(entry)
-    print(yattag.indent(doc.getvalue(), indent_text = True))
+
+    with open('content/{}.html'.format(target_file), 'w') as output:
+        print(HEADER.format(title), file = output)
+        print(yattag.indent(doc.getvalue(), indent_text = True), file = output)

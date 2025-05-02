@@ -1,5 +1,10 @@
 [
     {
+        "file" : "talks",
+        "title" : "Selected Talks"
+    },
+
+    {
         "title" : "Computing with Higher-Order Functions",
         "authors" : "D. Gratzer",
         "year" : "2025",

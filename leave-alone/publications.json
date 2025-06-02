@@ -11,7 +11,8 @@
         "venue" : "Logic in Computer Science",
         "links" :
         {
-            "PDF" : "/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf",
+            "PDF" : "/papers/the-yoneda-embedding-in-simplicial-type-theory-lics.pdf",
+            "Tech Report" : "/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf",
             "Arxiv" : "https://arxiv.org/abs/2501.13229"
         }
     },

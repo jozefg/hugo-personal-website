@@ -35,16 +35,6 @@
     },
 
     {
-        "title" : "Controlling unfolding in type theory",
-        "authors" : "D. Gratzer, J. Sterling, C. Angiuli, T. Coquand, L. Birkedal",
-        "year" : "2022",
-        "links" :
-        {
-            "PDF" : "/papers/controlling-unfolding-in-type-theory.pdf"
-        }
-    },
-
-    {
         "title" : "Denotational semantics of general store and polymorphism",
         "authors" : "J. Sterling, D. Gratzer, L. Birkedal",
         "year" : "2022",

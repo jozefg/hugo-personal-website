@@ -5,6 +5,17 @@
     },
 
     {
+        "title" : "Controlling unfolding in type theory",
+        "authors" : "D. Gratzer, J. Sterling, C. Angiuli, T. Coquand, L. Birkedal",
+        "venue" : "To appear in Mathematical Structures in Computer Science",
+        "year" : "2025",
+        "links" :
+        {
+            "PDF" : "/papers/controlling-unfolding-in-type-theory.pdf"
+        }
+    },
+
+    {
         "title" : "The Yoneda embedding in simplicial type theory",
         "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
         "year" : "2025",

@@ -32,8 +32,10 @@ Please feel free to contact me if you find any errors (typographical or otherwis
 
 ## Recent News
 
- - [the Yoneda embedding in simplicial type theory](/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf)
- has been accepted to LICS 2025
+ - [Controlling unfolding in dependent type theory](/papers/controlling-unfolding-in-type-theory.pdf) has been accepted 
+     to MSCS.
+ - [The Yoneda embedding in simplicial type theory](/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf)
+ has been accepted to LICS 2025 and received a distinguished paper award.
  - [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf)
  has been accepted to FoSSaCS 2025.
  - [Unifying cubical and multimodal type theory](/papers/unifying-cubical-and-multimodal-type-theory.pdf)
@@ -42,4 +44,3 @@ Please feel free to contact me if you find any errors (typographical or otherwis
  [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf).
  - [A modal deconstruction of Löb induction](/papers/a-modal-deconstruction-of-loeb-induction.pdf)
    has been conditionally accepted.
- - I'm visiting the University of Oxford from August 2024 to February 2025.

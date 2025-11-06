@@ -31,7 +31,9 @@ updated 2025-07-19_).
 Please feel free to contact me if you find any errors (typographical or otherwise).
 
 ## Recent News
-
+ 
+ - [Normalization for multimodal type theory](https://arxiv.org/abs/2301.11842/) has been accepted 
+     to LMCS.
  - [Controlling unfolding in dependent type theory](/papers/controlling-unfolding-in-type-theory.pdf) has been accepted 
      to MSCS.
  - [The Yoneda embedding in simplicial type theory](/papers/the-yoneda-embedding-in-simplicial-type-theory.pdf)
@@ -42,5 +44,3 @@ Please feel free to contact me if you find any errors (typographical or otherwis
  has been accepted to LMCS.
  - New preprint:
  [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf).
- - [A modal deconstruction of Löb induction](/papers/a-modal-deconstruction-of-loeb-induction.pdf)
-   has been conditionally accepted.

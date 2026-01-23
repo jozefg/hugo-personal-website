@@ -5,6 +5,16 @@
     },
 
     {
+        "title" : "The ∞-category of ∞-categories in simplicial type theory",
+        "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
+        "year" : "2026",
+        "links" :
+        {
+            "PDF" : "/papers/the-infinity-category-of-infinity-categories-in-simplicial-type-theory.pdf"
+        }
+    },
+
+    {
         "title" : "Directed univalence in simplicial homotopy type theory",
         "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
         "year" : "2024",

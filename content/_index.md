@@ -32,6 +32,7 @@ Please feel free to contact me if you find any errors (typographical or otherwis
 
 ## Recent News
  
+ - New preprint: [The ∞-category of ∞-categories in simplicial type theory](/papers/the-infinity-category-of-infinity-categories-in-simplicial-type-theory.pdf).
  - [Normalization for multimodal type theory](https://arxiv.org/abs/2301.11842/) has been accepted 
      to LMCS.
  - [Controlling unfolding in dependent type theory](/papers/controlling-unfolding-in-type-theory.pdf) has been accepted 

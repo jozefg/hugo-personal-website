@@ -5,9 +5,21 @@
     },
 
     {
+        "title" : "Normalization for multimodal type theory",
+        "authors" : "D. Gratzer",
+        "venue" : "Logical Methods in Computer Science",
+        "year" : "2026",
+        "links" :
+        {
+            "PDF" : "/papers/journal-normalization-for-multimodal-type-theory.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2301.11842"
+        }
+    },
+    
+    {
         "title" : "Controlling unfolding in type theory",
         "authors" : "D. Gratzer, J. Sterling, C. Angiuli, T. Coquand, L. Birkedal",
-        "venue" : "To appear in Mathematical Structures in Computer Science",
+        "venue" : "Mathematical Structures in Computer Science",
         "year" : "2025",
         "links" :
         {

@@ -26,7 +26,7 @@ an internship or Ph.D. with me, I encourage you to send me an email.
 dependent type theory. The book is under contract to be published with
 Cambridge University Press, but a draft will remain online and available here:
 [Principles of Dependent Type Theory](./papers/type-theory-book.pdf) (_Last
-updated 2025-07-19_).
+updated 2025-03-31_).
 
 Please feel free to contact me if you find any errors (typographical or otherwise).
 

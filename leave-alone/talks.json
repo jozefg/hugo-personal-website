@@ -3,6 +3,16 @@
         "file" : "talks",
         "title" : "Selected Talks"
     },
+    {
+        "title" : "Universes in simplicial type theory",
+        "authors" : "D. Gratzer",
+        "year" : "2026",
+        "venue" : "TYPES",
+        "links" :
+        {
+            "Slides" : "/papers/types-2026-slides.pdf"
+        }
+    },
 
     {
         "title" : "Computing with Higher-Order Functions",

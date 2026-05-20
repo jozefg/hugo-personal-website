@@ -32,6 +32,7 @@ Please feel free to contact me if you find any errors (typographical or otherwis
 
 ## Recent News
  
+ - [The ∞-category of ∞-categories in simplicial type theory](/papers/the-infinity-category-of-infinity-categories-in-simplicial-type-theory.pdf) has been accepted to LICS 2026.
  - New preprint: [The ∞-category of ∞-categories in simplicial type theory](/papers/the-infinity-category-of-infinity-categories-in-simplicial-type-theory.pdf).
  - [Normalization for multimodal type theory](https://arxiv.org/abs/2301.11842/) has been accepted 
      to LMCS.
@@ -43,5 +44,3 @@ Please feel free to contact me if you find any errors (typographical or otherwis
  has been accepted to FoSSaCS 2025.
  - [Unifying cubical and multimodal type theory](/papers/unifying-cubical-and-multimodal-type-theory.pdf)
  has been accepted to LMCS.
- - New preprint:
- [Idempotent resources in separation logic](/papers/idempotent-resources-in-separation-logic.pdf).

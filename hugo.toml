@@ -1,5 +1,4 @@
 baseURL = 'https://danielgratzer.com/'
-languageCode = 'en-us'
 title = 'Daniel Gratzer'
 ignoreFiles = [ "\\.Rmd$", "\\.Rmarkdown$", "_cache$", "leave-alone/" ]
 footnotereturnlinkcontents = "↩"

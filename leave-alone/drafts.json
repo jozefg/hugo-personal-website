@@ -46,17 +46,6 @@
     },
 
     {
-        "title" : "Strict universes for Grothendieck topoi",
-        "authors" : "D. Gratzer, M. Shulman, J. Sterling",
-        "year" : "2022",
-        "links" :
-        {
-            "PDF" : "/papers/strict-universes-for-grothendieck-topoi.pdf",
-            "Arxiv" : "https://arxiv.org/abs/2202.07329"
-        }
-    },
-
-    {
         "title" : "The directed plump ordering",
         "authors" : "D. Gratzer, M. Shulman, J. Sterling",
         "year" : "2022",

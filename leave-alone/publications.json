@@ -5,6 +5,18 @@
     },
 
     {
+        "title" : "Strict universes for Grothendieck topoi",
+        "authors" : "D. Gratzer, M. Shulman, J. Sterling",
+        "year" : "2026",
+        "venue" : "Theory and Application of Categories",
+        "links" :
+        {
+            "PDF" : "/papers/strict-universes-for-grothendieck-topoi.pdf",
+            "Arxiv" : "https://arxiv.org/abs/2202.07329"
+        }
+    },
+
+    {
         "title" : "The ∞-category of ∞-categories in simplicial type theory",
         "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
         "year" : "2026",

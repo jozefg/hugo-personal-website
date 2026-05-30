@@ -29,7 +29,7 @@ url = "talks/"
 weight = 5
 
 [params]
-description = "My website, built through Hugo and based on x-min."
+description = "Personal website for Daniel Gratzer"
 
 [markup.highlight]
 codeFences = false
@@ -46,3 +46,4 @@ inline = [ [ "\\(", "\\)" ] ]
 
 [security]
 enableInlineShortcodes = true
+allowContent = ['.*']

@@ -5,6 +5,17 @@
     },
 
     {
+        "title" : "For ♭-annotated types, Segal implies simplicial",
+        "authors" : "R. Schellingerhout, D. Gratzer, J. Weinberger, U. Buchholtz",
+        "year" : "2026",
+        "links" :
+        {
+            "PDF" : "/papers/segal-implies-simplicial.pdf"
+        }
+    },
+
+
+    {
         "title" : "Directed univalence in simplicial homotopy type theory",
         "authors" : "D. Gratzer, J. Weinberger, U. Buchholtz",
         "year" : "2024",

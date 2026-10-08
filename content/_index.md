@@ -32,6 +32,7 @@ Please feel free to contact me if you find any errors (typographical or otherwis
 
 ## Recent News
  
+ - New note on [Segal versus simplicial types](/papers/segal-implies-simplicial.pdf).
  - [Strict universes for Grothendieck topoi](/papers/strict-universes-for-grothendieck-topoi.pdf) has been published in TAC.
  - [The ∞-category of ∞-categories in simplicial type theory](/papers/the-infinity-category-of-infinity-categories-in-simplicial-type-theory.pdf) has been accepted to LICS 2026.
  - New preprint: [The ∞-category of ∞-categories in simplicial type theory](/papers/the-infinity-category-of-infinity-categories-in-simplicial-type-theory.pdf).
